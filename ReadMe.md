@@ -1,6 +1,6 @@
 ## Mobile Store E-Commerce Web Application
 
-### Developed by Thilrash
+### Developed by Thilrash & Going to be Modified by MugaggaM
 
 ### Version 1.0
 
