@@ -1,6 +1,10 @@
 ## Mobile Store E-Commerce Web Application
 
-### Developed by Thilrash & Going to be Modified by MugaggaM
+### Developed by mugaggamozes
+
+### Contact Information
+- Email: [mugaggamozes@gmail.com](mailto:mugaggamozes@gmail.com)
+- Phone: +256764625700
 
 ### Version 1.0
 
@@ -11,4 +15,7 @@
 
 ### Screenshots
 
-<p>&copy All rights reserved to <a href="https://github.com/Thilrash">Thilrash Gowzul Ameen</a></p>
+<div class="copyright text-center">
+    <p>&copy; 2026 All rights reserved. Designed by mugaggamozes.
+    Contact: <a href="mailto:mugaggamozes@gmail.com">mugaggamozes@gmail.com</a> | +256764625700</p>
+</div>

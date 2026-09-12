@@ -68,8 +68,8 @@
 <!-- copyright -->
 <div class="copyright text-center bg-dark text-white py-2">
     <p class="font-montagu">
-        &copy; Copyrights 2021. Designed by
-        <a href="https://github.com/Thilrash">Thilrash Gowzul Ameen</a>
+        &copy; Copyrights 2026. Designed by mugaggamozes.
+        Contact: <a href="mailto:mugaggamozes@gmail.com" class="text-white">mugaggamozes@gmail.com</a> | +256764625700
     </p>
 </div>
 
